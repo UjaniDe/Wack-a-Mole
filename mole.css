@@ -30,3 +30,10 @@ body{
     width:90px;
     height: 90px;
 }
+footer {
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+    font-size: 0.9em;
+    color: #666;
+}
